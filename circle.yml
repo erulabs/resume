@@ -14,4 +14,4 @@ deployment:
     branch: master
     owner: erulabs
     commands:
-      - git push -f git@github.com:erulabs/resume ${CIRCLE_BRANCH}:public
+      - git push -f git@github.com:erulabs/resume ${CIRCLE_BRANCH}:gh-pages
