@@ -1,0 +1,117 @@
+{
+  "basics": {
+    "name": "Seandon Mooy",
+    "label": "DevOps Engineer",
+    "picture": "https://scontent-lax3-1.xx.fbcdn.net/hphotos-xpt1/t31.0-8/12002417_10153486979681438_3992152692115683339_o.jpg",
+    "email": "seandon.mooy@gmail.com",
+    "phone": "(805) 729-7655",
+    "website": "https://seandonmooy.com",
+    "summary": "DevOps, Automation & FullStack expert with 8+ years professional experience. I buuild high performance, scalable applications that are fun to work on and easy to deploy.",
+    "location": {
+      "address": "1347 23rd st",
+      "postalCode": "90404",
+      "city": "Santa Monica",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "erulabs",
+      "url": "https://github.com/erulabs"
+    },{
+      "network": "LinkedIn",
+      "username": "seandonmooy",
+      "url": "https://www.linkedin.com/in/seandonmooy"
+    }]
+  },
+  "work": [{
+    "company": "TigerText",
+    "position": "DevOps Engineer",
+    "website": "https://tigertext.com",
+    "startDate": "2015-05-01",
+    "current": true,
+    "summary": "",
+    "highlights": [
+      "On-Call engineer for messaging systems used by large enterprises and healthcare providers",
+      "Managed large Chef code base and complex technical environment",
+      "Built new CI/CD platform for development teams",
+      "Monitoring, performance and security auditing"
+    ],
+    "keywords": [
+      "AWS", "DevOps", "Build Engineer", "CI/CD", "On-call"
+    ]
+  }, {
+    "company": "Rackspace",
+    "position": "DevOps Engineer",
+    "website": "https://rackspace.com",
+    "startDate": "2013-05-01",
+    "endDate": "2015-04-01",
+    "summary": "",
+    "highlights": [
+      "Built, managed and supported multiple high profile client's production environments simultaneously",
+      "Developed scalable and reusable automation solutions using Chef with a team of engineers",
+      "Implemented zero-downtime deployments for web-scale applications in various languages within PHP/LAMP, Node.js/MEAN, Java/Tomcat, Rails, Django and Wordpress ecosystems",
+      "Built resilient, redundant and scalable systems using pure cloud, pure dedicated, and hybrid environments using Chef, SaltStack and Ansible",
+      "Point of technical contact for large & well known organizations including large national retailers, movie studios and web startups",
+      "Built applications from scratch against undocumented internal APIs to help boost productivity and team efficiency"
+    ],
+    "keywords": [
+      "OpenStack", "DevOps", "Chef"
+    ]
+  }, {
+    "company": "Techtonic Games",
+    "position": "SysAdmin/Web developer",
+    "website": "https://rackspace.com",
+    "startDate": "2011-04-01",
+    "endDate": "2012-10-01",
+    "summary": "",
+    "highlights": [
+      "Assesed and improved existing infrastructure (monitoring, statistics, security, phone system)",
+      "Built many webpages from artist designs (from photoshop to the web)",
+      "Managed many hosted services such as game CDN, leaderboards, etc"
+    ]
+  }, {
+    "company": "The Okori Group",
+    "position": "Ruby on Rails / Javascript Developer",
+    "website": "http://theokorigroup.com/",
+    "startDate": "2011-04-01",
+    "endDate": "2012-03-01",
+    "summary": "",
+    "highlights": [
+      "Implemented features & bug fixes to mission critical applications",
+      "Designed, created and implemented customer communications portal",
+      "Web development from whiteboard to production for GetCocoon.com flagship product"
+    ]
+  }, {
+    "company": "Impulse Internet Services",
+    "position": "Linux Systems Administrator",
+    "startDate": "2007-04",
+    "website": "http://impulse.net/",
+    "endDate": "2009-12",
+    "summary": "",
+    "highlights": [
+      "Developed and implemented a number of internal applications, including network and systems monitoring, call center visualizations, and tech-support knowledgebase",
+      "Responsible for mission-critical systems uptime, including 20,000+ user email system"
+    ]
+  }],
+  "skills": [{
+    "name": "Operations",
+    "keywords": ["AWS", "Linux", "CI/CD", "Networking", "On-Call"]
+  },{
+    "name": "Programming",
+    "keywords": ["Javascript", "Ruby", "BASH", "Python"]
+  }, {
+    "name": "Automation",
+    "keywords": ["Docker", "Chef", "Ansible", "Salt", "Jenkins"]
+  }, {
+    "name": "Development",
+    "keywords": ["ES6", "Node", "React", "WebGL", "HTML/CSS"]
+  }],
+  "interests": [{
+    "name": "Cycling",
+    "keywords": ["Downhilling", "Trial racing", "Mountain Biking"]
+  }, {
+    "name": "Competitive gaming",
+    "keywords": ["RTS Game tournament winner"]
+  }]
+}
