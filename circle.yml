@@ -1,8 +1,8 @@
 test:
   override:
-    - mkdir -p out
-    - ./node_modules/.bin/resume export out/resume.pdf --theme paper
-    - ./node_modules/.bin/resume export out/resume.html --theme paper
+    - mkdir -p release
+    - ./node_modules/.bin/resume export release/resume.pdf --theme paper
+    - ./node_modules/.bin/resume export release/resume.html --theme paper
   post:
     - git config user.name "circleci"
     - git config user.email "resume@erulabs.com"
@@ -10,7 +10,7 @@ test:
     - git commit -m "build"
 
 deployment:
-  github:
+  master:
     branch: master
     owner: erulabs
     commands:
